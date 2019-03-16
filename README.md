@@ -4,8 +4,9 @@ My homepage with Hugo and Academic
 
 #### Design
 
-- [ ] Russian site, "internationalisation"
+- [ ] убрать "Главная"
 - [ ] change color of fas font to green 
+- [x] Russian site, "internationalisation"
 
 #### Content
 

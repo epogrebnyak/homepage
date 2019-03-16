@@ -7,12 +7,9 @@
   languageCode = "en-us"
   contentDir = "content/en"
 
-
-# Error: found overlapping content dirs
-
-#[ru]
-#  languageCode = "ru"
-#  contentDir = "content/rus"
+[ru]
+  languageCode = "ru"
+  contentDir = "content/ru"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
