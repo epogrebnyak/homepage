@@ -8,15 +8,6 @@ draft = false
 tags = ["hugo", "setup"]
 categories = []
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
 +++
 
 [Academic theme](https://sourcethemes.com/academic/) is great, well-thought in design and popular with users. Below is a track record of my site setup using Hugo and Academic. 
