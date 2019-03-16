@@ -71,33 +71,6 @@ I first disabled the blog too. I thought of blogging as such an archaic activity
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most effective way to share knowledge within your organization is to share it with the whole world</p>&mdash; Chris Whong (@chris_whong) <a href="https://twitter.com/chris_whong/status/1106170436411445249?ref_src=twsrc%5Etfw">March 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
-My next steps
-----------
-
-#### Design
-
-- Russian site, "internationalisation"
-- Change color of fas font to green 
-
-#### Content
-
-- publications 
-- talks 
-- presentations
-- tutorials and courses
-
-#### Hosting
-
-- build on AWS Amplify 
-- make this a repo 
-
-#### Not todo
-
-- duplicate non-emails in bottom contact section
-- new domain
-- domain e-mail
-
 Why filtering?
 --------------
 
