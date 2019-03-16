@@ -1,0 +1,278 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Evgeny Pogrebnyak
+    tagline: Economist (Financial Institutions/Macro)
+    avatar: ep.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: e.pogrebnyak@gmail.com
+    phone:
+    website: # blog.webjeda.com #do not add http://
+    linkedin:
+    github: epogrebnyak
+    gitlab:
+    bitbucket:
+    twitter: PogrebnyakE
+    stack-overflow: 1758363/epo # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: French
+        level: Good working knowledge
+
+      - idiom: Russian
+        level: Native
+
+    interests:
+
+      - item: Financial institutions, development banks, capital projects
+        link:
+
+      - item: Corporate finance, industry analysis and industrial policy
+        link:
+
+      - item: Macroeconomic forecasting and econometrics
+        link:
+
+      - item: Clean code and reproducible research
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+
+        Proficient in quantitative modeling and communication of findings 
+        to various audiences. Experienced in financial institutions strategy
+        and reengineering of corporate lending business process.
+
+        My background involves:
+          - national development bank strategy role
+          - market modelling (power sector) and industry research (automotive)
+          - industrial policy analysis
+          - macroeconomic modeling
+
+        Interested in:
+          - digital transformation projects
+          - new corporate credit products
+          - data-driven government policy
+
+experiences:
+      - role: Deputy Director, Department for Macroeconomic Forecasting
+        company: >
+          [VEB](http://veb.ru)
+      - role: Managing Director, Strategy Department
+        company: >
+          [VEB](http://veb.ru)
+      - role: Senior Researcher, Head of Research
+        company: > 
+          [ICSS](https://icss.ru/images/pdf/presentation_eng.pdf)
+      - role: Specialist
+        company: >
+          [SibAl](https://en.wikipedia.org/wiki/Basic_Element_(company))
+      - role: Engineer, Junior Scientific Fellow
+        company: >
+          [Center for Short-term Macroeconomic Forecasting](http://forecast.ru) 
+          / [Institute for Economic Forecasting RAS](http://ecfor.ru)
+
+projects:
+
+     title: Teaching, research and open source projects
+
+     # intro: >
+        # You can list your side projects or open source libraries in this
+        # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+     assignments:
+        - title: Machine-readable financial statements course, Center for Financial Mathematics
+          link: https://github.com/ru-corporate
+          tagline: "A data pipeline to analyse 1.2 million Russian firms financial reports."
+
+        - title: Russian macroeconomic time series dataset        
+          link: https://github.com/mini-kep/intro
+          tagline: "A public end-user API to deliver Russian macroeconomic time series, inspired by St Louis FRED."
+
+        - title: Financial models and digital financial twins in project finance
+          link: https://speakerdeck.com/epogrebnyak/financial-twins-in-project-finance
+          tagline: "Draft proposal for voluntary real-time project disclosure standard."
+
+        - title: Project contributor
+          link: https://github.com/WLM1ke/PortfolioOptimizer
+          tagline: "Optimization of long-term Russian equity portfolio based on dividend forecast."
+
+education:
+
+    - degree: "'Island 10-21' Intensive Study Course"
+      time: July 2018
+      university: FEFU, Vladivostok 
+      details: |
+         - ML/DL courses
+         - Machine-readable law
+         - Industry 4.0 production systems
+
+    - degree: CEMFI Summer School
+      university: Madrid, Spain
+      time: September 2015  
+      details: |
+        -  [Nowcasting, Short-Term Forecasting 
+            and Turning-Points Real-Time 
+            Detection (Gabriel Pérez-Quirós)](https://www.cemfi.es/studies/css/course_previous_years.asp?c=14&y=2015)
+
+    -  degree: IfW Kiel Advanced Studies Program
+       university: Kiel, Germany
+       time: 2012-2014   
+       details: |
+        -	Exchange-Rate Economics (Lucio Sarno, City University, London) 
+        -	Applied Econometrics (Stefan Reitz, Kiel Institute)
+        - Monetary Policy: Theory and Practice (Volker Wieland, Goethe-Universität Frankfurt)
+
+    -  degree: Unicredit
+       university: Munich, Germany
+       time: 2013
+       details: |
+         - Introduction to Equator principles in project finance
+
+    -  degree: Barcelona Graduate School of Economics Summer School
+       university: Barcelona, Spain
+       time: 2013-2014
+       details: |
+         - Exchange Rate Predictability (Barbara Rossi, CREI)
+         - Modeling Non-stationary and Non-linear Time Series (Laura Mayoral, Gabriel Perez-Quiros)
+         - Systemic Risk and Macroprudential Policy
+   
+    - degree: PhD Economics
+      university: Russian Academy of Sciences
+      time: 2009
+      #    Воспроизводственные параметры и механизмы регулирования электроэнергетики России в условиях перехода к конкурентному рынку
+      details: |
+          Thesis: ["Policy parameters in competitive electricity market in Russia".](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/)
+           - Agent-based plant-level model of competitive wholesale electricty market.
+           - Prices affected by world, resources, auction rules and agent behaviour.
+           - Reserve margin requirement should complement prices as reform policy target.
+
+    - degree: Visiting PhD
+      university: London Business School, Energy Markets Group
+      time: 2004
+
+    - degree: BSc Economics, MSc Economic Policy
+      university: Moscow State University, Economics Department
+      time: 1995-2001
+
+
+# experiences:
+#       - role: Deputy Director
+#        time: 2008 - Present
+#        company: [VEB](http://veb.ru)
+#        details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#         error sit voluptatem accusantium doloremque laudantium, totam rem
+#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#         architecto beatae vitae dicta sunt explicabo.
+
+#           - Bullet point
+#           - Bullet point
+
+    # - role: Senior Software Engineer
+      # time: 2014 - 2015
+      # company: Google, London
+      # details: |
+        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        # Cum sociis natoque penatibus et magnis dis parturient montes,
+        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        # pellentesque eu, pretium quis, sem.
+
+          # - Bullet point
+          # - Bullet point
+
+    # - role: UI Developer
+      # time: 2012 - 2014
+      # company: Amazon, London
+      # details: |
+        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        # Cum sociis natoque penatibus et magnis dis parturient montes,
+        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        # pellentesque eu, pretium quis, sem.
+
+          # - Bullet point
+          # - Bullet point
+
+
+# publications:
+    # title: Publications
+    # intro: |
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
+
+    # papers:
+      # - title: The Art of Computer Programming
+        # authors: Donald E. Knuth
+        # conference: Addison-Wesley, 1968
+
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      # - title: A syntax directed compiler for Algol 60
+        # authors: Edgar T. Irons
+        # conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+
+    title: Technical competences
+    toolset:
+      - name: Python
+        level: 75%
+
+      - name: R
+        level: 50%
+
+      - name: Julia
+        level: 20%
+
+      - name: Matlab
+        level: 10%
+
+      - name: VBA
+        level: 10%
+
+      - name: Testing and integration (pytest, TravisCI)
+        level: 65%
+
+      - name: Visualisation (matplotlib, bokeh, plotly)
+        level: 65%
+
+      - name: Econometrics (EViews, gretl)
+        level: 50%
+
+      - name: API design (Flask)
+        level: 35%
+
+      - name: Databases (MySQL/SQLAlchemy)
+        level: 25%
+
+      - name: Cloud services (AWS, Heroku)
+        level: 20%
+
+      - name: Linux
+        level: 10%
+
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
