@@ -43,9 +43,9 @@ email = "e.pogrebnyak@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Digital transformation and strategy",
   "Financial institutions, development banks, capital projects",
-  "Market modelling (energy) and industrial policy (automotive)",  
+  "Market modelling (energy) and industrial policy (automotive)",
+  "Digital transformation and data-driven strategy",  
   "Econometrics, clean code and reproducible research"
 ]
       
@@ -65,7 +65,7 @@ interests = [
   year = 2004
 
 [[education.courses]]
-  course = "MSc Social and Economic Policy, BSc Economics"
+  course = "MSc Social and Economic Policy, 2004, BSc Economics"
   institution = "Moscow State University, Economics Department"
   year = 2001
 

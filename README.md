@@ -1,8 +1,6 @@
-# homepage
+# epogrebnyak.github.io
 My homepage with Hugo and Academic
 
-
-## TODO
 
 #### Design
 
@@ -19,6 +17,7 @@ My homepage with Hugo and Academic
 #### Hosting
 
 - [x] make this a repo 
+- [ ] host Gh-Pages as subdirectory
 
 #### Not todo
 
@@ -26,3 +25,5 @@ My homepage with Hugo and Academic
 - duplicate non-emails in bottom contact section
 - new domain
 - domain e-mail
+- what is the difference between tags and categories?
+

@@ -19,7 +19,7 @@ categories = []
   focal_point = ""
 +++
 
-[Academic theme](https://sourcethemes.com/academic/) is great, well-thought in design and popular with users. Below is a track record of mysite setup using Hugo and Academic. 
+[Academic theme](https://sourcethemes.com/academic/) is great, well-thought in design and popular with users. Below is a track record of my site setup using Hugo and Academic. 
 
 Precursor
 ---------
@@ -39,19 +39,18 @@ using Ruby environment for Jekyll)
 My setup
 --------
 
-Some steps in personal setup I have spent a bit extra time with:
+Some steps in my site setup I have spent a bit extra time with:
 
-- contacts section configurtion explained in [Leslie Myint blog post](https://lmyint.github.io/post/hugo-academic-tips/#modifying-contact-section)
-- added StackOverflow fas icon (had to look up a font library)
+- contacts section configuration explained in [Leslie Myint blog post](https://lmyint.github.io/post/hugo-academic-tips/#modifying-contact-section)
+- added StackOverflow fas icon (had to look up a font library, can be provided by default)
 - contact form by https://formspree.io will need activation (both on `localhost` and your server)
-- added personal photo as `avatar.png` (from the layout code it appeared the file extention 
-  does not matter)
+- added personal photo as `avatar.png` (from the layout code it appears that file extension  does not matter)
 - replaced favicon as [suggested in docs](https://sourcethemes.com/academic/docs/customization/#website-icon)
 
 
-I disabled following sections for now:
+I disabled the following sections:
 
-- people and groups - probably good for another, collaborative site
+- people and groups - probably good for another, more collaborative site
 - `publications`, `featured` (duplicated, not filled yet)
 - `skills` (great look, had it in Jekyll CV, but how do you access + must move off the front page)
 - `accomplishments` (must put a list of econometrics courses in)
@@ -59,9 +58,7 @@ I disabled following sections for now:
 - `experience` (to fill later, was not filled in a CV)
 - `hero` widget
 
-Also moved several files (including `.sh`) to `ignore` folder - makes cleaner root of repository.
-
-Still not sure what is the difference between tags and categories?
+Also moved several files (including `.sh`) to `ignore` folder - cleans root of the repository. 
 
 
 Is blog a relic?
@@ -81,4 +78,4 @@ UPDATE: blocking no more as of 16-03-2019. Maybe a coffee helped.
 Gratitude
 ---------
 
-I [paid up for a coffee](https://sourcethemes.com/academic/#support) to Academic on paypal. A small gratitude to an open source project.
+I [paid up for a coffee](https://sourcethemes.com/academic/#support) to Academic on paypal.  A small gratitude to an open source project.
