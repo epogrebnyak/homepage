@@ -120,7 +120,7 @@ True
 ```python
 >> from sys import version 
 >> print(version)
-3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)]
+3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41)
 ```
 
 #### Функции. Стандартная библиотека.
@@ -145,11 +145,17 @@ def roots(a, b, c):
 ```python
 >> min(5, 7)
 5
+>> len('abc')
+3
+
+>> from datetime import datetime
+>> print(datetime.now())
+2019-03-16 19:14:41.536899
 ```
 
 #### Условное исполнение `if-else`. Цикл `for`.
 
-> Исполнение программы может куда-то перескаивать.
+> Исполнение программы может куда-то пересакивать.
 
 ```python
 for x in [1,2,3,4]: 
@@ -267,11 +273,11 @@ for x in [1,2,3,4]:
 <td>
 {{% md %}}
 
-- "Everything is an object",
+- "Everything is an object"
 - `id()`
 - [cat vs dog](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/)
 - `dir()`
-- [ABCs](https://docs.python.org/3/library/abc.html).
+- [ABCs](https://docs.python.org/3/library/abc.html)
 
 {{% /md %}}</td></tr>
 
@@ -280,9 +286,9 @@ for x in [1,2,3,4]:
 Алгоритмы и паттерны
 </td><td>{{% md %}}
 
-- [алгоритмы](https://github.com/TheAlgorithms/Python) 
-- O-notation
+- [алгоритмы](https://github.com/TheAlgorithms/Python), O-notation
 - [design patterns](https://github.com/faif/python-patterns)
+- [дизайн API](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
 
 {{% /md %}}</td></tr>
 
@@ -304,7 +310,7 @@ for x in [1,2,3,4]:
 <td>
 {{% md %}}
 
-- командная строка
+- [командная строка](https://github.com/epogrebnyak/the-art-of-command-line)
 - горячие клавиши редактора
 - git
 - markdown
@@ -400,7 +406,7 @@ for x in [1,2,3,4]:
 #### Stack Overflow
 
 Топ вопросов по голосам пользователей в [Stack Overflow](https://stackoverflow.com/questions/tagged/python?sort=votes) дает представление о 
-наименее понятных и востребованных сторонах языка. Лидер рейтинга - ключевое слово `yield`.
+наименее понятных, но при этом востребованных сторонах языка. Лидер рейтинга - ключевое слово `yield`.
 
 
 Приложения 
