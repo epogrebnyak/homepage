@@ -19,8 +19,7 @@ categories = []
   focal_point = ""
 +++
 
-On DEV.to ["Julia, surprise me!"](https://dev.to/epogrebnyak/julialang-and-surprises---what-im-learning-with-a-new-programming-language--21df) maps my learning of the Julia programming language as a series of pleasant and 
-less satisfying surprises. 
+DEV.to article ["Julia, surprise me!"](https://dev.to/epogrebnyak/julialang-and-surprises---what-im-learning-with-a-new-programming-language--21df) maps my learning of the Julia programming language as a series of pleasant and less satisfying surprises. 
 
 Since then my biggest roadblock to Julia was the [recompilation time of the dependencies](
 https://discourse.julialang.org/t/mac-resolving-package-versions-takes-a-long-time/16905/3?u=epogrebnyak).

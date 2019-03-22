@@ -45,7 +45,7 @@ email = "e.pogrebnyak@gmail.com"
 interests = [
   "Financial institutions, development banks, capital projects",
   "Market modelling (energy) and industrial policy (automotive)",
-  "Digital transformation and data-driven strategy",  
+  "Data-driven strategy and digital transformation",  
   "Econometrics, clean code and reproducible research"
 ]
       
