@@ -2,13 +2,11 @@
 # Project title.
 title = "Introduction to Haskell"
 
-draft = true
-
 # Date this page was created.
 date = 2018-10-03T00:00:00
 
 # Project summary to display on homepage.
-summary = "Curated Haskell classes by Yuras Shumovich."
+summary = "Curated Haskell classes taught by Yuras Shumovich."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

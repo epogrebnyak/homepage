@@ -1,21 +1,21 @@
 +++
 # Project title.
-title = "Introduction to Haskell"
+title = "Как понять бухучет?"
 
-draft = true
+draft = false
 
 # Date this page was created.
 date = 2018-10-03T00:00:00
 
 # Project summary to display on homepage.
-summary = "Curated Haskell classes by Yuras Shumovich."
+summary = "Скрытая угроза 1C: пишем прототип системы бухучета на Python, julia или Haskell"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "haskell"]
+tags = ["accounting"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/epogrebnyak/haskell-intro"
+external_link = "https://github.com/epogrebnyak/accounting"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
