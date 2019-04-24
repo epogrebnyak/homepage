@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "mini-kep time series"
+title = "mini-kep Dataset"
 
 draft = false
 

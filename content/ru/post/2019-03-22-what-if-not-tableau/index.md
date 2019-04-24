@@ -67,4 +67,4 @@ tags = ["jupyter", "shiny", "superset"]
 
 - чудесный мир JavaScript дэшбордов, но в это мире непонятно, какой проект развивается, какой уже нет. Оживленным выглядит [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin).
 - низкоуровневая библиотека? `D3.js`! надстройка? `Vega-lite`. А чтобы пользоваться? 
- [Altair](https://altair-viz.github.io/)! (снова питон) 
+ [Altair](https://altair-viz.github.io/)! (Это снова питон.) 

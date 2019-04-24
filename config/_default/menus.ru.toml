@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Блог"
-  url = "#posts"
+  name = "Проекты"
+  url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Проекты"
-  url = "#projects"
+  name = "Блог"
+  url = "#posts"
   weight = 30
 
 # [[main]]
