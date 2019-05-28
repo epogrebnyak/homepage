@@ -15,23 +15,10 @@ highlight_style = "github"  # Highlight JS theme name
 
 ---
 
-# Command line
+# 1. Command line
 
 If on Windows, install WSL.  
 Go through [Art of command line](https://github.com/jlevy/the-art-of-command-line#basics>).
-
----
-
-## Concepts
-
-  <!-- 
-  - `~` vs `%USERPROFILE%`
-  - `%PATH%` and `$PATH`
-  -->
-
-- file system (```~```)
-- streams and redirection (```>```, ```>>```, ```|```)
-- args and flags ([docopt](http://docopt.org/))
 
 ---
 
@@ -43,17 +30,26 @@ More at [Art of command line](https://github.com/jlevy/the-art-of-command-line#b
 
 ---
 
-## Running on Windows 
+## Concepts
 
+  <!-- 
+  - `~` vs `%USERPROFILE%`
+  - `%PATH%` and `$PATH`
+  -->
+
+- file system (```~``` or ```%USERPROFILE%```, ```PATH```)
+- streams and redirection (```>```, ```>>```, ```|```)
+- args and flags ([docopt](http://docopt.org/))
+- package managers (```apt-get```)
+
+---
+
+## Running on Windows 
 
   - [GOW](https://github.com/bmatzelle/gow/wiki)
   - Cygwin, MinGW
   - [Git for Windows](https://git-scm.com/downloads)
   - [cmder](https://cmder.net/)
-
-<br>
-
-On mobile: [Termux (Android)](https://habr.com/ru/post/444950/)
 
 ---
 
@@ -68,7 +64,7 @@ Video: [WSL architecture](https://youtu.be/Zi0eofqAkXU?t=758)
 ## Remote machine 
 
 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#) is 
-a free and fast way to play with command line on a remote machine (with ```!```).
+a free and fast way to play with command line on a remote machine.
 
 ---
 
@@ -81,6 +77,7 @@ tree / -d -L 2
 ```
 
 Why not try this in ​Google Colab?
+Prefix every command with ```!```
 
 
 ---
@@ -100,15 +97,30 @@ Why not try this in ​Google Colab?
 
 ---
 
-## Remote machines
+## (Temp) free plans
+
+<img class="plain"  src="/img/paycloud.png"/>
+
+{{< speaker_note >}}
+
+All have (temporarily) free plans:
+
+{{< / speaker_note >}}
 
 - [AWS EC2](https://aws.amazon.com/ru/ec2/)
 - [Digital Ocean](https://www.digitalocean.com) 
 - Yandex and Mail.ru
 
-<!-- ![](assets/paycloud.png) -->
+Tip: [Travis-CI artifacts](https://docs.travis-ci.com/user/uploading-artifacts/) 
 
-All have (temporarily) free plans.
+---
+
+## On mobile
+
+[Termux (Android)](https://habr.com/ru/post/444950/)
+
+<img class="plain"  src="https://termux.com/files/weechat-with-keyboard_framed.png"/>
+
 
 ---
 
@@ -136,54 +148,79 @@ All have (temporarily) free plans.
 
 # Git
 
----
+- Use
+- Concept
+- Workflow 
+- Work in small batches.
 
-
-- Workflow
-- Messages
 - Where:
-  - Github + Gist
+  - Github
   - Gitlab
 
 ---
 
 ## Data
 
-- [ ] DAG
-- [ ] storage (eg AWS S3) 
+- Analysis is a DAG
+- Data storage (AWS S3) 
 
 ---
 
 ## Publishing
 
-- [ ] doi, bibliography
-- [ ] markdown, pandoc, PDF
-- [ ] Latex
-- [ ] markdown
-- [ ] asciidoctor (Ruby)
+- markdown, pandoc
+- asciidoctor (Ruby)
+- latex (Overleaf)
+- doi, bibliography
+- jekyll, hugo
+
+---
+
+Обеспечения надзора
+
+- Руководитель экспертной группы
+- Полонский
 
 ---
 
 ##  Coding
 
-- REPL
+Tweet: coding interview
+
+Concepts:
+
 - OOP vs FP
+- algorithm, O(n) notation
+- Turing / state machine
+
+Use:
+
+- REPL + text editor
 - databases: ORM, SQL
-- O(n) notation
+- regex
+
+Learn from:
+
+- SO
+- dev.to
 - library popularity on github
 
 ---
 
-## Editors
+## Editors (vs IDEs)
 
-- vim -> IDEs
+- `:q`  for vim
+- VSCode
+- Sublime
+- Notepad++ 
 
 --- 
 
 ## Productivity
 
-- [ ] todos, try, doing, done
-- [ ] even file naming
+- todo.txt
+- todos, try, doing, done
+-  file naming
 
 ---
 
