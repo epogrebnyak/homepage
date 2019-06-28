@@ -19,13 +19,74 @@ categories = []
   focal_point = ""
 +++
 
+
+
+# Часть вторая
+
+## Кредитование: выдать кредит и зажмуриться
+
+> the longest delay we had was 40 days from past due but that was paid off on
+the 40th day. Apart from that, we have not had any bad debts or defaults.
+
+> I see most commercial lenders put out loans and then close their
+eyes and wait it out to season.
+
+> Banks often only look at the credit experience at the end of the period (i.e., let’s
+check if we have got our money back, or not). Instead, our approach is a more
+proactive monitoring of the business – the operational and financial data. This helps
+give us a clear idea of how the business is trending so we can see where the
+potential issues may be in the book. This helps give us better visibility into business.
+
+## Dozens
+
+Build Specs include:
+
+- Native mobile applications for iOS 11+ (Obj C/Swift) and Android 5.4+ (Java +
+Kotlin);
+- Modern micro services architecture, using more than 10 managed services to
+reduce development and operation efforts;
+- Fully hosted in AWS (London region), with high redundancy planning using
+hot/cold plugs and 3x AWS physical zones;
+- Kubernetes is used to manage horizontal scaling of servers;
+- More than 20 partner tech integrations, with service level agreement (SLA)-
+based monitoring and alerts system using enterprise-ready DataDog software;
+and
+- Custom Admin Panel to provide cross-partner/cross-platform operations scaling
+and monitoring.
+
+
+## Функция финансов живет сама по себе
+
+> I think the biggest challenge for incumbent banks is around people, organizational
+structure and incentive structures. For instance, if the digital and technology
+functions in a bank sits outside of the finance function and integrate only at the
+senior management level, there is only so much digital-led innovation that can take
+place in the firm as it has to be top-down driven. Instead if technology is embedded
+in the finance function, it’s more likely to offer innovative solutions.
+
+## Подписываться на 4-6 лет? Нет!
+
+> Most digital/technology transformations take four to six years to implement. For a big
+bank, this is quite a big bet with extensive risks. By contrast, incentive structures in
+most banks tend to be driven by yearly performance. Hence there is little incentive
+for individuals to undertake risky transformations in incumbent banks.
+
+## 1С + цифровой банк
+
+> Mid-2017 DBS announced a tie-up with Tally, a leading enterprise resource
+planning company in India’s SME space with 8 million SMEs and 30,000
+salespersons. This has given DBS access to thousands of SME customers to
+provide both secured and unsecured loans.
+
+----
+
+# Часть первая 
+
 Вкратце:
 
-- миграция core banking это боль, отсутствие миграции - это смерть;
-- смерть наступит от пользовательских платформ GAFA/BAT;
-- банки сохранят только некоторые функции и то из-за силы брендов.
-
-
+- миграция core banking это боль, отсутствие миграции - это смерть
+- угроза потери клиентов идет от небанковских он-лайн платформ
+- в будущем банки сохранят только часть своих традиционных функции
 
 ## Банки будут бэкэндом к GAFA (Google, Apple, Facebook, and Amazon) и BAT (Baidu, Alibaba, and Tencent)
 
