@@ -43,9 +43,10 @@ email = "e.pogrebnyak@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Financial institutions, development banks, capital projects",
+  "Capital projects advisory",
+  "Financial institutions, development banks",
   "Market modelling (energy) and industrial policy (automotive)",
-  "Data-driven strategy and digital transformation",  
+  "Data-driven strategy and data governance",  
   "Econometrics, clean code and reproducible research"
 ]
       
@@ -106,12 +107,10 @@ interests = [
   icon_pack = "fab"
   link = "https://stackoverflow.com/users/1758363/epo"
 
-
-# TODO: research gate
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0003-3914-9665"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -122,9 +121,7 @@ interests = [
 
 +++
 
-This page is in pre-release stage. So far I managed to put is some credentials and one post about 
-the setup process, which is rather exciting and creative with Hugo and Academic theme. More to come!
+My CV also published [here](https://epogrebnyak.github.io/cv/).
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.  -->
+-->
